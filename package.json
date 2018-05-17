@@ -1,0 +1,22 @@
+{
+  "name": "image-recognition-aws",
+  "version": "1.0.7",
+  "description": "AWS based image Recognition library powered by AWS Rekognition functionalities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image-recognition",
+    "aws",
+    "image-moderation",
+    "image"
+  ],
+  "author": "Chamal Pradeep <pradeephbac@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.0",
+    "aws-sdk": "^2.201.0",
+    "bluebird": "^3.5.1"
+  }
+}
